@@ -4,31 +4,44 @@
       "select_main_ads":"ADMOB",
       "select_backup_ads":"APPLOVIN-M",
 
-      "main_ads_banner":"ca-app-pub-3803044318753265/7961996369",
-      "main_ads_intertitial":"ca-app-pub-3803044318753265/1218308828",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-3803044318753265/7961996369",
+      "main_ads_banner":"ca-app-pub-4624994162804982/6150600529",
+      "main_ads_intertitial":"ca-app-pub-4624994162804982/7614396445",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-4624994162804982/6150600529",
+      "main_ads_rewards":"ca-app-pub-4624994162804982/9528957698",
 
       "backup_ads_banner":"d68281b74f300c6f",
       "backup_ads_intertitial":"fbfee8b0cc4ee566",
       "backup_native_ads_Admob_or_applovin":"d68281b74f300c6f",
+      "backup_ads_rewards":"a60b6611d9f32c8b",
 
       "interval_for_native":"6",
-      "interval_intertitial":"2",
+      "interval_intertitial":2,
+      "survey_api_key":"REPLACE_WITH_YOUR_API_KEY",
+
+      "on_off_survey":"0",
+      "default_coins": 300,
+      "reward_coins_video": 100,
+      "reward_coins_survey": 250,
+      "use_coins_download": 50,
 
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"null",
 
-      "high_paying_keyword_1":"property",
-      "high_paying_keyword_2":"insurance",
+      "high_paying_keyword_1":"insurance",
+      "high_paying_keyword_2":"property",
       "high_paying_keyword_3":"finance",
-      "high_paying_keyword_4":"korea",
-      "high_paying_keyword_5":"japan",
+      "high_paying_keyword_4":"lawyer",
+      "high_paying_keyword_5":"loans",
 
       "status_app":"0",
       "link_redirect":"https://",
 
+      "email_info":"cs.kokicilik@gmail.com",
+
       "category_optional":"1",
-      "moreapp_optional":"1"
+      "moreapp_optional":"1",
+
+      "link_moreapp":"https://play.google.com/store/apps/developer?id=koki+cilik"
     }
   ],
   "More":[
