@@ -1,13 +1,13 @@
 {
   "Ads":[
     {
-      "select_main_ads":"ADMOB",
+      "select_main_ads":"APPLOVIN-M",
       "select_backup_ads":"APPLOVIN-M",
 
-      "main_ads_banner":"ca-app-pub-4624994162804982/6150600529",
-      "main_ads_intertitial":"ca-app-pub-4624994162804982/7614396445",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-4624994162804982/6150600529",
-      "main_ads_rewards":"ca-app-pub-4624994162804982/9528957698",
+      "main_ads_banner":"ca-app-pub-3803044318753265/8678564971x",
+      "main_ads_intertitial":"ca-app-pub-3803044318753265/6435545010x",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3803044318753265/8678564971x",
+      "main_ads_rewards":"ca-app-pub-3803044318753265/1921584939x",
 
       "backup_ads_banner":"d68281b74f300c6f",
       "backup_ads_intertitial":"fbfee8b0cc4ee566",
@@ -24,8 +24,8 @@
       "reward_coins_survey": 250,
       "use_coins_download": 50,
 
-      "initialize_sdk":"null",
-      "initialize_sdk_backup_ads":"null",
+      "initialize_sdk":"206905481",
+      "initialize_sdk_backup_ads":"206905481",
 
       "high_paying_keyword_1":"insurance",
       "high_paying_keyword_2":"property",
@@ -40,6 +40,9 @@
 
       "category_optional":"1",
       "moreapp_optional":"1",
+
+      "protect_app":"false",
+      "base_license_key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx3A/x3P919nnW2KQVskdJU3TaTv7c/bU71rMQ9PyKWXqIHqaLlRX6PQuwE/yAEGs4GnNMRxPXiF8sxOGs7s0ISeWiwpRxVev+c1bVHTS1CbROzfysUzKGbVeu1A8bCfAwKrnpiNwXJ09xOm6cdoqBAtFYPwLMM1U7DHbXE/ANfOWVfAW7lDrRvj23Vf6XMA3+QWIm52j3ylvqSOkqig3f/IfxNA8n5ijenDueOTBZHtD41ylvJGDQLJcfLexU31gr1Zlop9gFcGwHSSfztqdMW9Rnmr9y7aQWgkn2FTlYoqDK2ABYDJLOxzo8FsMfKWH1U/B8sa0hjow/Nqf3FKQmwIDAQAB",
 
       "link_moreapp":"https://play.google.com/store/apps/developer?id=koki+cilik"
     }
