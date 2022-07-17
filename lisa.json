@@ -1,7 +1,7 @@
 {
   "Ads":[
     {
-      "select_main_ads":"APPLOVIN-M",
+      "select_main_ads":"STARTAPP",
       "select_backup_ads":"APPLOVIN-M",
 
       "main_ads_banner":"ca-app-pub-3803044318753265/8678564971x",
@@ -41,7 +41,7 @@
       "category_optional":"1",
       "moreapp_optional":"1",
 
-      "protect_app":"false",
+      "protect_app":"true",
       "base_license_key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx3A/x3P919nnW2KQVskdJU3TaTv7c/bU71rMQ9PyKWXqIHqaLlRX6PQuwE/yAEGs4GnNMRxPXiF8sxOGs7s0ISeWiwpRxVev+c1bVHTS1CbROzfysUzKGbVeu1A8bCfAwKrnpiNwXJ09xOm6cdoqBAtFYPwLMM1U7DHbXE/ANfOWVfAW7lDrRvj23Vf6XMA3+QWIm52j3ylvqSOkqig3f/IfxNA8n5ijenDueOTBZHtD41ylvJGDQLJcfLexU31gr1Zlop9gFcGwHSSfztqdMW9Rnmr9y7aQWgkn2FTlYoqDK2ABYDJLOxzo8FsMfKWH1U/B8sa0hjow/Nqf3FKQmwIDAQAB",
 
       "link_moreapp":"https://play.google.com/store/apps/developer?id=koki+cilik"
@@ -265,6 +265,66 @@
     }
   ],
   "Data":[
+    {
+      "id":330,
+      "title":"Lisa Blackpink 330",
+      "image":"https://i.pinimg.com/originals/38/01/b3/3801b3f98a137d21f6b2a1696a63f954.jpg",
+      "name_category":"Lisa Blackpink"
+    },
+    {
+      "id":329,
+      "title":"Lisa Blackpink 329",
+      "image":"https://i.pinimg.com/originals/fe/23/cc/fe23cc21d6710372f5ab703de2a83369.jpg",
+      "name_category":"Lisa Blackpink"
+    },
+    {
+      "id":328,
+      "title":"Lisa Blackpink 328",
+      "image":"https://i.pinimg.com/originals/51/3c/40/513c4056a978914ceb20228617e68e46.jpg",
+      "name_category":"Lisa Blackpink"
+    },
+    {
+      "id":327,
+      "title":"Lisa Blackpink 327",
+      "image":"https://i.pinimg.com/originals/7d/a2/81/7da281621ad8d0047d7694e9e93d5c11.jpg",
+      "name_category":"Lisa Blackpink"
+    },
+    {
+      "id":326,
+      "title":"Lisa Blackpink 326",
+      "image":"https://i.pinimg.com/originals/cf/3b/0d/cf3b0d12129e363da17a46cb7108b8f6.jpg",
+      "name_category":"Lisa Blackpink"
+    },
+    {
+      "id":325,
+      "title":"Lisa Blackpink 325",
+      "image":"https://i.pinimg.com/originals/e2/d7/e9/e2d7e944e4a169623e9b6c1542ed9f3c.jpg",
+      "name_category":"Lisa Blackpink"
+    },
+    {
+      "id":324,
+      "title":"Lisa Blackpink 324",
+      "image":"https://i.pinimg.com/originals/fc/ae/51/fcae51a57eb84057365477523e423052.jpg",
+      "name_category":"Lisa Blackpink"
+    },
+    {
+      "id":323,
+      "title":"Lisa Blackpink 323",
+      "image":"https://i.pinimg.com/564x/f6/ce/5c/f6ce5c81818c6ad88779125c8dd2538e.jpg",
+      "name_category":"Lisa Blackpink"
+    },
+    {
+      "id":322,
+      "title":"Lisa Blackpink 322",
+      "image":"https://i.pinimg.com/originals/d9/f1/77/d9f17751721de85797516ceddcea0c25.jpg",
+      "name_category":"Lisa Blackpink"
+    },
+    {
+      "id":321,
+      "title":"Lisa Blackpink 321",
+      "image":"https://i.pinimg.com/originals/2b/c3/57/2bc3578de563262dd5ac36dc7413e2f8.jpg",
+      "name_category":"Lisa Blackpink"
+    },
     {
       "id":320,
       "title":"Lisa Blackpink 320",
