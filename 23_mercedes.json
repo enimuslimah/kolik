@@ -4,14 +4,14 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
 	  
-	  "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+	  "open_ads_admob":"ca-app-pub-3803044318753265/4093967373",
       "open_ads_alien":"null",
       "open_ads_max":"d5e47718bd62fb44",
 	  
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-	  "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "ca-app-pub-3803044318753265/7251695320",
+      "main_ads_intertitial":"ca-app-pub-3803044318753265/4325221140",
+	  "main_ads_natives":"ca-app-pub-3803044318753265/5298541400",
+      "main_ads_rewards":"ca-app-pub-3803044318753265/5875188108",
       
       "backup_ads_banner":"79975759037ae40b",
       "backup_ads_intertitial":"1de6125ba2b0e1cf",
@@ -628,7 +628,7 @@
       "id":215,
       "title":"Mercedes Benz 215",
       "image":"https://images.unsplash.com/photo-1559285692-52f8be29070d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz"
     },
     {
@@ -648,7 +648,7 @@
     {
       "id":"212",
       "title":"Mercedes Benz 212",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1612945789141-802278191556?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1528&q=80"
     },
@@ -676,7 +676,7 @@
     {
       "id":"208",
       "title":"Mercedes Benz 208",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1629019878688-f5d58a41b188?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -704,7 +704,7 @@
     {
       "id":"204",
       "title":"Mercedes Benz 204",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1629019878500-302b516de84c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -732,7 +732,7 @@
     {
       "id":"200",
       "title":"Mercedes Benz 200",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1610697313008-531c55042671?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -781,7 +781,7 @@
     {
       "id":"193",
       "title":"Mercedes Benz 193",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1569364576540-552f3bbcb815?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1569&q=80"
     },
@@ -816,7 +816,7 @@
     {
       "id":"188",
       "title":"Mercedes Benz 188",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1567694541984-e43b62c26463?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1527&q=80"
     },
@@ -851,7 +851,7 @@
     {
       "id":"183",
       "title":"Mercedes Benz 183",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1604359019396-cc1e4759d01d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1528&q=80"
     },
@@ -872,7 +872,7 @@
     {
       "id":"180",
       "title":"Mercedes Benz 180",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1576074650260-a70e940351cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -914,7 +914,7 @@
     {
       "id":"174",
       "title":"Mercedes Benz 174",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1547673673-184be8bdd59e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     },
@@ -935,7 +935,7 @@
     {
       "id":"171",
       "title":"Mercedes Benz 171",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1594573677313-757d4aeea449?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -963,7 +963,7 @@
     {
       "id":"167",
       "title":"Mercedes Benz 167",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1616943451223-2bb0bf916e08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     },
@@ -998,7 +998,7 @@
     {
       "id":"162",
       "title":"Mercedes Benz 162",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1520432016467-a14e2042271e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1026,7 +1026,7 @@
     {
       "id":"158",
       "title":"Mercedes Benz 158",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1566023767378-313ac27c15f6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1054,7 +1054,7 @@
     {
       "id":"154",
       "title":"Mercedes Benz 154",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1611898684584-6078919487dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1528&q=8011"
     },
@@ -1131,14 +1131,14 @@
     {
       "id":"143",
       "title":"Mercedes Benz 143",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1562066202-9d528a377a8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1530&q=80"
     },
     {
       "id":"142",
       "title":"Mercedes Benz 142",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1611898685674-1e1d269301bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1187,7 +1187,7 @@
     {
       "id":"135",
       "title":"Mercedes Benz 135",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1613082190644-f2e21566342e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1208,7 +1208,7 @@
     {
       "id":"132",
       "title":"Mercedes Benz 132",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1581856509552-1333716908c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1236,7 +1236,7 @@
     {
       "id":"128",
       "title":"Mercedes Benz 128",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1541852289-0afcc91469cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
     },
@@ -1257,7 +1257,7 @@
     {
       "id":"125",
       "title":"Mercedes Benz 125",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1607870462598-b0e00fa1992e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1460&q=80"
     },
@@ -1271,7 +1271,7 @@
     {
       "id":"123",
       "title":"Mercedes Benz 123",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1594586948305-57f87c5e9c4d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1306,7 +1306,7 @@
     {
       "id":"118",
       "title":"Mercedes Benz 118",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1589199928766-31ac1fa51e2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1341,7 +1341,7 @@
     {
       "id":"113",
       "title":"Mercedes Benz 113",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1616790037607-46c67331a33b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1362,7 +1362,7 @@
     {
       "id":"110",
       "title":"Mercedes Benz 110",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1569999718334-b2a75df9dd50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80"
     },
@@ -1390,7 +1390,7 @@
     {
       "id":"106",
       "title":"Mercedes Benz 106",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1616790150523-0fd7eb3fbc16?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1411,7 +1411,7 @@
     {
       "id":"103",
       "title":"Mercedes Benz 103",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1583617061528-0dbccc11f754?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1528&q=80"
     },
@@ -1439,7 +1439,7 @@
     {
       "id":"99",
       "title":"Mercedes Benz 99",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1611898685192-c504d22b7731?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1453,7 +1453,7 @@
     {
       "id":"97",
       "title":"Mercedes Benz 97",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1616788234247-ee91cc99cc18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1474,7 +1474,7 @@
     {
       "id":"94",
       "title":"Mercedes Benz 94",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1602579483477-9559d03b0e63?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1495,7 +1495,7 @@
     {
       "id":"91",
       "title":"Mercedes Benz 91",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1602579483241-90bc3766cf11?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1523,7 +1523,7 @@
     {
       "id":"87",
       "title":"Mercedes Benz 87",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1616789916713-386a2b05e0bc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1586,7 +1586,7 @@
     {
       "id":"78",
       "title":"Mercedes Benz 78",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1559038465-e0ca2910a5b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1621,7 +1621,7 @@
     {
       "id":"73",
       "title":"Mercedes Benz 73",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1616788494707-ec28f08d05a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1663,7 +1663,7 @@
     {
       "id":"67",
       "title":"Mercedes Benz 67",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1616788233817-5d7d5030f55d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1684,7 +1684,7 @@
     {
       "id":"64",
       "title":"Mercedes Benz 64",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1547222177-34816507d63f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1712,7 +1712,7 @@
     {
       "id":"60",
       "title":"Mercedes Benz 60",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1576425955278-3c87cd8dcf69?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1527&q=80"
     },
@@ -1747,7 +1747,7 @@
     {
       "id":"55",
       "title":"Mercedes Benz 55",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1624343747608-85a728776125?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1552&q=80"
     },
@@ -1768,7 +1768,7 @@
     {
       "id":"52",
       "title":"Mercedes Benz 52",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80"
     },
@@ -1796,7 +1796,7 @@
     {
       "id":"48",
       "title":"Mercedes Benz 48",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1578148190071-173c57e882bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1824,7 +1824,7 @@
     {
       "id":"44",
       "title":"Mercedes Benz 44",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1615228939096-9ead6c74008e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1430&q=80"
     },
@@ -1852,7 +1852,7 @@
     {
       "id":"40",
       "title":"Mercedes Benz 40",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1617814076367-b759c7d7e738?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1416&q=80"
     },
@@ -1873,7 +1873,7 @@
     {
       "id":"37",
       "title":"Mercedes Benz 37",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1619551734325-81aaf323686c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1498&q=80"
     },
@@ -1887,7 +1887,7 @@
     {
       "id":"35",
       "title":"Mercedes Benz 35",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1564705604164-90e6b60ad7cc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1376&q=80"
     },
@@ -1908,7 +1908,7 @@
     {
       "id":"32",
       "title":"Mercedes Benz 32",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://images.unsplash.com/photo-1542230387-bfc77d26903e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     },
@@ -1978,7 +1978,7 @@
     {
       "id":"22",
       "title":"Mercedes Benz 22",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://i.pinimg.com/564x/3c/d5/66/3cd5665588880202dc2819fdaabc3ba6.jpg"
     },
@@ -2020,7 +2020,7 @@
     {
       "id":"16",
       "title":"Mercedes Benz 16",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://i.pinimg.com/originals/57/e7/3c/57e73c4ec7d872ab736e1d779c51e653.jpg"
     },
@@ -2055,7 +2055,7 @@
     {
       "id":"11",
       "title":"Mercedes Benz 11",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://i.pinimg.com/originals/57/25/46/5725463d574df7cd28d5549c66148cec.jpg"
     },
@@ -2076,7 +2076,7 @@
     {
       "id":"8",
       "title":"Mercedes Benz 8",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://i.pinimg.com/originals/8b/d1/35/8bd1351911ee0d59df85ac3289156c0d.jpg"
     },
@@ -2125,7 +2125,7 @@
     {
       "id":"1",
       "title":"Mercedes Benz 1",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Mercedes Benz",
       "image":"https://i.pinimg.com/originals/12/b6/e8/12b6e8e5bf35cfb64bfa51b1a2f066f6.jpg"
     },
