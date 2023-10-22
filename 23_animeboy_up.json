@@ -3,25 +3,25 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-	  
-	  "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
       "open_ads_alien":"null",
       "open_ads_max":"6193502771dad14a",
 	  
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-	  "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
       "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
       
       "backup_ads_banner":"32c7c49463bc954e",
       "backup_ads_intertitial":"a02bd25d71a44f72",
-	  "backup_ads_natives":"4d24f1b49ee6a721",
+      "backup_ads_natives":"4d24f1b49ee6a721",
       "backup_ads_rewards":"36dc22381382c84d",
       
       "on_off_native_listview": "1",
-	  "interval_for_native": "12",
-	  "on_off_banner_splash": "1",
-	  "on_off_banner_exit": "1",
+      "interval_for_native": "12",
+      "on_off_banner_splash": "1",
+      "on_off_banner_exit": "1",
 	  
       "interval_intertitial": "3",
 	  
@@ -38,13 +38,13 @@
       "link_redirect": "https://",
 
       "child_direct_gdpr": "true",
-	  "targeting_ads": "1",
+      "targeting_ads": "1",
 	  
       "one_signal_api_key": "",
 
       "on_off_category": "1",
-	  "on_off_moreapp": "1",
-	  "on_off_random": "0",
+      "on_off_moreapp": "1",
+      "on_off_random": "0",
       "link_privacy": "file:///android_asset/privacy_policy.html",
 
       "on_off_protect_app": "false",
@@ -85,12 +85,6 @@
       "title":"Blackpink Wallpaper",
       "image":"https://play-lh.googleusercontent.com/al9kAHwOXP4BV4W8WuwM0ET6vj0v7_iZthPy3-O6AdOtnGzyOhQzwVI39BGSIIYk1O5W=s180",
       "link":"https://play.google.com/store/apps/details?id=com.kokicilik.lisablackpinkwallpaperhd"
-    },
-    {
-      "id":6,
-      "title":"Anime Boy",
-      "image":"https://play-lh.googleusercontent.com/rcii17IejznsMDj9tIo8GmCMWM__4et8yHZ5E_sJK0dJlt7fNUo29hVz5lQ8f7pSVOM=s180",
-      "link":"https://play.google.com/store/apps/details?id=com.kokicilik.animeboywallpaperhd"
     },
     {
       "id":7,
