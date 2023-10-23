@@ -25,8 +25,8 @@
 
       "interval_intertitial": "3",
 	  
-      "initialize_sdk":"null",
-      "initialize_sdk_backup_ads":"null",
+      "initialize_sdk":"209184507",
+      "initialize_sdk_backup_ads":"209184507",
 	  
       "high_paying_keyword_1": "property",
       "high_paying_keyword_2": "insurance",
@@ -48,8 +48,7 @@
       "link_privacy": "file:///android_asset/privacy_policy.html",
 
       "on_off_protect_app": "false",
-      "license_key": ""
-   
+      "license_key": "" 
     }
   ],
   
