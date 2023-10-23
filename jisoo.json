@@ -15,8 +15,8 @@
       "interval_for_native":"6",
       "interval_intertitial":"2",
 
-      "initialize_sdk":"null",
-      "initialize_sdk_backup_ads":"null",
+      "initialize_sdk":"209184507",
+      "initialize_sdk_backup_ads":"209184507",
 
       "high_paying_keyword_1":"property",
       "high_paying_keyword_2":"insurance",
@@ -31,6 +31,8 @@
       "moreapp_optional":"1"
     }
   ],
+
+
   "More":[
     {
       "id":1,
@@ -85,62 +87,10 @@
       "title":"Rose Blackpink",
       "image":"https://play-lh.googleusercontent.com/ulMAlLTgPLQwx9gCsQgCp2_YUrOep6Nx_s6BWxQhqwxCPMtVQ9EO37vrw6v8qtwtN3c=s180",
       "link":"https://play.google.com/store/apps/details?id=com.kokicilik.jisooblackpinkwallpaperhd"
-    },
-    {
-      "id":10,
-      "title":"Todoroki Shoto Wallpapers 4K",
-      "image":"https://play-lh.googleusercontent.com/kRY8l_1kdzMr3O-AaD3j0fVCcQ9bn_qggREsKgc6zp3UPWOIp9ToHLdtxpF2U0PbhQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.indahgemilangjaya.todorokishoutowallpapers"
-    },
-    {
-      "id":11,
-      "title":"Turning Red – Panda Wallpapers",
-      "image":"https://play-lh.googleusercontent.com/vFIzLJV-XyQXMSWGrTV0U87gKs6XsjvGO6Rg3Ql23xIw32g5eO4M5ogKovDxPdmSYNo=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
-    },
-    {
-      "id":12,
-      "title":"Wallpaper Kawaii 4K",
-      "image":"https://play-lh.googleusercontent.com/7pk5Tt-GHCShrwzD6Y3gMRWLcDARlFU95QFToGPqNdKcQSqSLHCIwLKMb9P528GNBw=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.indahgemilangjaya.kawaiiwallpapershd"
-    },
-    {
-      "id":13,
-      "title":"Twibbonize Photo Frame",
-      "image":"https://play-lh.googleusercontent.com/ruhpBed8b1BBANhSBVufNcTEdIewwfegVCea5OQcinmaDfcZ8FoOr2iKlLJi3wCllQ=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.indahgemilangjaya.twibbonizephotoframe"
-    },
-    {
-      "id":14,
-      "title":"BTS Jimin - Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/digkGDk2_uuSfxGEyUKTnGXThtlau7CaiOw1D84Z8FbFGC8Ph2SeUmiNXmGddwbt1fmN=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.indahgemilangjaya.btsjiminfakevideocall"
-    },
-    {
-      "id":15,
-      "title":"Deep Wallpaper HD 4K",
-      "image":"https://play-lh.googleusercontent.com/atl8YV8Pl1e5swoaZt22EHYWwV9sYaF2Ec1BQjv1IOOdk7v3V9m-MrAnXWSiCycvWg=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.indahgemilangjaya.deepwallpaperhd"
-    },
-    {
-      "id":16,
-      "title":"Anime Girl HD 4K",
-      "image":"https://play-lh.googleusercontent.com/CV_SF8nG3-Q4CIyPnpUGz8Xwwg4tnmPSCH53hQRfEsfBzGiBp3yddIAx0mVZtH2US7w=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.indahgemilangjaya.animegirlwallpapershd"
-    },
-    {
-      "id":17,
-      "title":"Pink Girly HD 4K",
-      "image":"https://play-lh.googleusercontent.com/MM622RbynlJsGL8G6ZffvLyWcNkdkFgtHRjW1effA4qnxSZI0NEA8rMBseTUEDYJh-8=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.indahgemilangjaya.pinkgirlywallpaperhd"
-    },
-    {
-      "id":18,
-      "title":"Mecca Wallpaper HD Offline",
-      "image":"https://play-lh.googleusercontent.com/LWn3sCsRg2DxAEcNz_nD7zmm3JSS5hghC9nSM1KGxHU1nymcRWBf4FHaLVBK2XFUVis=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.indahgemilangjaya.meccawallpaperhd"
     }
   ],
+
+
   "Categories":[
     {
       "id":21,
@@ -248,6 +198,8 @@
       "image":"https://images.unsplash.com/photo-1617924997545-b0e0f81a1552?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1528&q=80"
     }
   ],
+
+  
   "Data":[
     {
       "id":340,
