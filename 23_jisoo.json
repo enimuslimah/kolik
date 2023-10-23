@@ -3,27 +3,27 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-	  
-	  "open_ads_admob":"ca-app-pub-3803044318753265/4414952452",
+
+      "open_ads_admob":"ca-app-pub-3803044318753265/4414952452",
       "open_ads_alien":"null",
       "open_ads_max":"f7a546deada5ce88",
 	  
       "main_ads_banner": "ca-app-pub-3803044318753265/6765498216",
       "main_ads_intertitial":"ca-app-pub-3803044318753265/6115695400",
-	  "main_ads_natives":"ca-app-pub-3803044318753265/5870237104",
+      "main_ads_natives":"ca-app-pub-3803044318753265/5870237104",
       "main_ads_rewards":"ca-app-pub-3803044318753265/4557155438",
       
       "backup_ads_banner":"3f49c75e4a15ab17",
       "backup_ads_intertitial":"c95555550afda875",
-	  "backup_ads_natives":"2e27151339b0ce45",
+      "backup_ads_natives":"2e27151339b0ce45",
       "backup_ads_rewards":"b3e7be5380dac301",
       
       "on_off_native_listview": "1",
-	  "interval_for_native": "9",
+      "interval_for_native": "24",
       "interval_intertitial": "3",
 	  
-      "initialize_sdk":"null",
-      "initialize_sdk_backup_ads":"null",
+      "initialize_sdk":"209184507",
+      "initialize_sdk_backup_ads":"209184507",
 	  
       "high_paying_keyword_1": "property",
       "high_paying_keyword_2": "insurance",
@@ -38,13 +38,12 @@
       "one_signal_api_key": "",
 
       "on_off_category": "1",
-	  "on_off_moreapp": "1",
-	  "on_off_random": "0",
+      "on_off_moreapp": "1",
+      "on_off_random": "0",
       "link_privacy": "file:///android_asset/privacy_policy.html",
 
       "on_off_protect_app": "false",
       "license_key": ""
-   
     }
   ],
   
