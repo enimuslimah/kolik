@@ -3,25 +3,25 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-	  
-	  "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+
+      "open_ads_admob":"ca-app-pub-3803044318753265/6498190317",
       "open_ads_alien":"null",
       "open_ads_max":"761537f909ab1fb4",
 	  
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-	  "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "ca-app-pub-3803044318753265/7960241954",
+      "main_ads_intertitial":"ca-app-pub-3803044318753265/4562106430",
+      "main_ads_natives":"ca-app-pub-3803044318753265/7349989670",
+      "main_ads_rewards":"ca-app-pub-3803044318753265/4723826330",
       
       "backup_ads_banner":"e4eb83b74a7a3ff1",
       "backup_ads_intertitial":"ef0b6eb8eb92375b",
-	  "backup_ads_natives":"af2e6f1989aabeaa",
+      "backup_ads_natives":"af2e6f1989aabeaa",
       "backup_ads_rewards":"c8708c840d4993fc",
       
       "on_off_native_listview": "1",
-	  "interval_for_native": "12",
-	  "on_off_banner_splash": "1",
-	  "on_off_banner_exit": "1",
+      "interval_for_native": "12",
+      "on_off_banner_splash": "1",
+      "on_off_banner_exit": "1",
 	  
       "interval_intertitial": "3",
 	  
@@ -38,13 +38,13 @@
       "link_redirect": "https://",
 
       "child_direct_gdpr": "true",
-	  "targeting_ads": "2",
+      "targeting_ads": "2",
 	  
       "one_signal_api_key": "",
 
       "on_off_category": "1",
-	  "on_off_moreapp": "1",
-	  "on_off_random": "0",
+      "on_off_moreapp": "1",
+      "on_off_random": "0",
       "link_privacy": "file:///android_asset/privacy_policy.html",
 
       "on_off_protect_app": "false",
