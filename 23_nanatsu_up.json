@@ -18,12 +18,12 @@
       "backup_ads_natives":"66d407d11a875aa2",
       "backup_ads_rewards":"80ad8b0fed59ff47",
       
-      "on_off_native_listview": "1",
+      "on_off_native_listview": "0",
       "interval_for_native": "12",
       "on_off_banner_splash": "1",
       "on_off_banner_exit": "1",
 	  
-      "interval_intertitial": "3",
+      "interval_intertitial": "5",
 	  
       "initialize_sdk":"209227297",
       "initialize_sdk_backup_ads":"209227297",
