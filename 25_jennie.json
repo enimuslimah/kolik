@@ -19,11 +19,11 @@
       "backup_ads_rewards":"a6690f6bd212bd12",
       
       "on_off_native_listview": "1",
-      "interval_for_native": "12",
+      "interval_for_native": "24",
       "on_off_banner_splash": "1",
       "on_off_banner_exit": "1",
 
-      "pilih_tema_detail": "0",
+      "pilih_tema_detail": "1",
 
       "interval_intertitial": "3",
 	  
