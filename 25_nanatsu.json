@@ -40,13 +40,13 @@
       "link_redirect": "https://",
 
       "child_direct_gdpr": "true",
-	  "targeting_ads": "2",
+      "targeting_ads": "2",
 	  
       "one_signal_api_key": "",
 
       "on_off_category": "1",
-	  "on_off_moreapp": "1",
-	  "on_off_random": "0",
+      "on_off_moreapp": "1",
+      "on_off_random": "0",
       "link_privacy": "file:///android_asset/privacy_policy.html",
 
       "on_off_protect_app": "false",
@@ -245,6 +245,76 @@
   
   "Data":
   [
+    {
+      "id": 240,
+      "title": "Nanatsu 240",
+      "image": "https://i.pinimg.com/originals/c9/03/cb/c903cbf2663161344463b7903a2f350a.jpg",
+      "lock":"true",
+      "name_category":"Nanatsu"
+    },
+    {
+      "id": 239,
+      "title": "Nanatsu 239",
+      "image": "https://i.pinimg.com/originals/84/e6/d3/84e6d33df26a3a97a1dd0518c77fd155.jpg",
+      "lock":"false",
+      "name_category":"Nanatsu"
+    },
+    {
+      "id": 238,
+      "title": "Nanatsu 238",
+      "image": "https://i.pinimg.com/originals/af/c3/a2/afc3a2d593b41a4e2d7e46605d173ca7.jpg",
+      "lock":"true",
+      "name_category":"Nanatsu"
+    },
+    {
+      "id": 237,
+      "title": "Nanatsu 237",
+      "image": "https://i.pinimg.com/originals/9f/89/a0/9f89a03f77db0d498b3e5e1e0c06cf53.jpg",
+      "lock":"false",
+      "name_category":"Nanatsu"
+    },
+    {
+      "id": 236,
+      "title": "Nanatsu 236",
+      "image": "https://i.pinimg.com/originals/51/11/90/511190b7b49bba5156e8cdf5c6e60a1a.jpg",
+      "lock":"false",
+      "name_category":"Nanatsu"
+    },
+    {
+      "id": 235,
+      "title": "Nanatsu 235",
+      "image": "https://i.pinimg.com/originals/04/b2/53/04b253d2edd0ab1083bb2f26830ab179.jpg",
+      "lock":"true",
+      "name_category":"Nanatsu"
+    },
+    {
+      "id": 234,
+      "title": "Nanatsu 234",
+      "image": "https://i.pinimg.com/736x/3d/a5/93/3da5935e35a5140c56dc166514e6ac39.jpg",
+      "lock":"false",
+      "name_category":"Nanatsu"
+    },
+    {
+      "id": 233,
+      "title": "Nanatsu 233",
+      "image": "https://i.pinimg.com/1200x/3d/10/db/3d10db76f1a58ac2d07edc9c8d5a91ae.jpg",
+      "lock":"true",
+      "name_category":"Nanatsu"
+    },
+    {
+      "id": 232,
+      "title": "Nanatsu 232",
+      "image": "https://i.pinimg.com/originals/95/fe/13/95fe1384f9ff0d88f9ae0ccd30a241e7.jpg",
+      "lock":"false",
+      "name_category":"Nanatsu"
+    },
+    {
+      "id": 231,
+      "title": "Nanatsu 231",
+      "image": "https://i.pinimg.com/originals/7f/6c/6c/7f6c6c147fe1bfa2fbbe582b85fb434d.jpg",
+      "lock":"false",
+      "name_category":"Nanatsu"
+    },
     {
       "id": 230,
       "title": "Nanatsu 230",
