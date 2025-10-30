@@ -1,12 +1,13 @@
 {
-  {
+  "Ads": [
+    {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
 
       "open_ads_admob":"ca-app-pub-3803044318753265/4801965266",
       "open_ads_alien":"null",
       "open_ads_max":"6193502771dad14a",
-	  
+    
       "main_ads_banner": "ca-app-pub-3803044318753265/3620745537",
       "main_ads_intertitial":"ca-app-pub-3803044318753265/5131870501",
       "main_ads_natives":"ca-app-pub-3803044318753265/1192625490x",
@@ -21,9 +22,11 @@
       "interval_for_native": "12",
       "on_off_banner_splash": "1",
       "on_off_banner_exit": "1",
-	  
+
+      "pilih_tema_detail": "1",
+    
       "interval_intertitial": "3",
-	  
+    
       "initialize_sdk":"209939229",
       "initialize_sdk_backup_ads":"209939229",
 	  
@@ -37,13 +40,13 @@
       "link_redirect": "https://",
 
       "child_direct_gdpr": "true",
-	  "targeting_ads": "2",
+      "targeting_ads": "2",
 	  
       "one_signal_api_key": "",
 
       "on_off_category": "1",
-	  "on_off_moreapp": "1",
-	  "on_off_random": "0",
+      "on_off_moreapp": "1",
+      "on_off_random": "0",
       "link_privacy": "file:///android_asset/privacy_policy.html",
 
       "on_off_protect_app": "false",
