@@ -60,45 +60,58 @@
   [
     {
       "id":1,
-      "title":"Mercedes Benz",
-      "image":"https://play-lh.googleusercontent.com/2k7TMKBztTRakExzf2wb2kj97E7COqx8bJm9DgYSEkdrkowppl6rmSfJr4fZZ9kGkg=s180",
-      "link":"https://play.google.com/store/apps/details?id=com.kokicilik.mercedeswallpaperhd"
+      "title":"BMW Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/pGtOMEF9HWsVw2dGejiX397Sngi_AFvPBfLKFDCHVPOPNbGH4z7IHwmn28LwskkWXw7CXRMURYhrVZn5P9NZFM4=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.kokicilik.bmwwallpaperhd"
     },
     {
       "id":2,
+      "title":"Mercedes Benz",
+      "image":"https://play-lh.googleusercontent.com/2k7TMKBztTRakExzf2wb2kj97E7COqx8bJm9DgYSEkdrkowppl6rmSfJr4fZZ9kGkg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.kokicilik.mercedeswallpaperhd"
+    },
+    {
+      "id":3,
       "title":"Hanako Kun",
-      "image":"https://play-lh.googleusercontent.com/oyyOpayOE5lq9Xb7FcnlX4rYaR6eK8-LeOY6Nh9gv0n0ntNMdJ6xXZR1nAobzg7D15w=s180",
+      "image":"https://play-lh.googleusercontent.com/oyyOpayOE5lq9Xb7FcnlX4rYaR6eK8-LeOY6Nh9gv0n0ntNMdJ6xXZR1nAobzg7D15w=w480-h960",
       "link":"https://play.google.com/store/apps/details?id=com.kokicilik.hanakowallpaperhd"
     },
     {
       "id":4,
       "title":"Nanatsu no Taizai",
-      "image":"https://play-lh.googleusercontent.com/7XVv7C6RF73Nt9qBdcJTNkxUCl-ensmFdLI3Z_JpgXsWmMI0lytaFFKVH4u0tXxeFzpn=s180",
+      "image":"https://play-lh.googleusercontent.com/7XVv7C6RF73Nt9qBdcJTNkxUCl-ensmFdLI3Z_JpgXsWmMI0lytaFFKVH4u0tXxeFzpn=w480-h960",
       "link":"https://play.google.com/store/apps/details?id=com.kokicilik.nanatsuwallpaperhd"
     },
     {
       "id":5,
-      "title":"Blackpink Wallpaper",
-      "image":"https://play-lh.googleusercontent.com/al9kAHwOXP4BV4W8WuwM0ET6vj0v7_iZthPy3-O6AdOtnGzyOhQzwVI39BGSIIYk1O5W=s180",
-      "link":"https://play.google.com/store/apps/details?id=com.kokicilik.lisablackpinkwallpaperhd"
-    },
-    {
-      "id":6,
       "title":"Anime Boy",
-      "image":"https://play-lh.googleusercontent.com/rcii17IejznsMDj9tIo8GmCMWM__4et8yHZ5E_sJK0dJlt7fNUo29hVz5lQ8f7pSVOM=s180",
+      "image":"https://play-lh.googleusercontent.com/rcii17IejznsMDj9tIo8GmCMWM__4et8yHZ5E_sJK0dJlt7fNUo29hVz5lQ8f7pSVOM=w480-h960",
       "link":"https://play.google.com/store/apps/details?id=com.kokicilik.animeboywallpaperhd"
     },
     {
+      "id":6,
+      "title":"Blackpink Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/al9kAHwOXP4BV4W8WuwM0ET6vj0v7_iZthPy3-O6AdOtnGzyOhQzwVI39BGSIIYk1O5W=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.kokicilik.lisablackpinkwallpaperhd"
+    },
+    
+    {
       "id":7,
       "title":"Lisa Blackpink",
-      "image":"https://play-lh.googleusercontent.com/LM2TB_6ueIk6xzCHNUumfMd-76aGjns5mADV2XtdCF3ut__A8KHJWmlOd0x_6yqE4DA=s180",
+      "image":"https://play-lh.googleusercontent.com/LM2TB_6ueIk6xzCHNUumfMd-76aGjns5mADV2XtdCF3ut__A8KHJWmlOd0x_6yqE4DA=w480-h960",
       "link":"https://play.google.com/store/apps/details?id=com.kokicilik.lisablackpinkwallpaperhd"
     },
     {
       "id":9,
       "title":"Rose Blackpink",
-      "image":"https://play-lh.googleusercontent.com/ulMAlLTgPLQwx9gCsQgCp2_YUrOep6Nx_s6BWxQhqwxCPMtVQ9EO37vrw6v8qtwtN3c=s180",
-      "link":"https://play.google.com/store/apps/details?id=com.kokicilik.lisablackpinkwallpaperhd"
+      "image":"https://play-lh.googleusercontent.com/ulMAlLTgPLQwx9gCsQgCp2_YUrOep6Nx_s6BWxQhqwxCPMtVQ9EO37vrw6v8qtwtN3c=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.kokicilik.roseblackpinkwallpaperhd"
+    },
+    {
+      "id":10,
+      "title":"Jennie Blackpink",
+      "image":"https://play-lh.googleusercontent.com/ucjtO3tfWY_Cy5cLPuOLPtZOMV3od-XoiWoCO9mEzQbCtUQz4gLME3tc2a8PRQEQsTE=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.kokicilik.jennieblackpinkwallpaperhd"
     }
   ],
 
