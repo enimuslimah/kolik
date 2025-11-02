@@ -37,8 +37,8 @@
       "child_direct_gdpr": "true",
       "one_signal_api_key": "",
 
-      "on_off_category": "1",
-      "on_off_moreapp": "1",
+      "on_off_category": "0",
+      "on_off_moreapp": "0",
       "on_off_random": "0",
       "link_privacy": "file:///android_asset/privacy_policy.html",
 
