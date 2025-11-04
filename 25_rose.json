@@ -249,7 +249,7 @@
     {
       "id":"345",
       "title":"Rose Blackpink 345",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Rose Blackpink",
       "image":"https://i.pinimg.com/originals/07/b9/c9/07b9c94ee25c4a488b16627e881adf45.jpg"
     },
@@ -284,7 +284,7 @@
     {
       "id":"340",
       "title":"Rose Blackpink 340",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Rose Blackpink",
       "image":"https://i.pinimg.com/originals/41/d6/1a/41d61a759bca565620593fafe1f41c64.jpg"
     },
@@ -347,7 +347,7 @@
     {
       "id":"331",
       "title":"Rose Blackpink 331",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Rose Blackpink",
       "image":"https://i.pinimg.com/originals/4d/59/9b/4d599bb3a82ce5d3c828d9868c009c9b.jpg"
     },
@@ -382,7 +382,7 @@
     {
       "id":"326",
       "title":"Rose Blackpink 326",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Rose Blackpink",
       "image":"https://i.pinimg.com/originals/f8/a9/b2/f8a9b2ded405008cbca3e5a48b34b0ca.jpg"
     },
@@ -431,7 +431,7 @@
     {
       "id":"319",
       "title":"Rose Blackpink 319",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Rose Blackpink",
       "image":"https://i.pinimg.com/originals/1e/09/17/1e0917accd9f005a0a4345d38aa95f8b.jpg"
     },
@@ -459,7 +459,7 @@
     {
       "id":"315",
       "title":"Rose Blackpink 315",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Rose Blackpink",
       "image":"https://i.pinimg.com/originals/ae/99/52/ae9952d08a3bf4741a9d76d4baa02e84.jpg"
     },
@@ -491,7 +491,7 @@
       "name_category":"Rose Blackpink",
       "image":"https://i.pinimg.com/originals/67/9a/3b/679a3bf57d589dfe0c633acef8276a06.jpg"
     },
-    
+
     {
       "id":310,
       "title":"Rose Blackpink 310",
