@@ -19,7 +19,7 @@
       "backup_ads_rewards":"8653e95ba1bb570f",
       
       "on_off_native_listview": "1",
-      "interval_for_native": "24",
+      "interval_for_native": "18",
       "on_off_banner_splash": "1",
       "on_off_banner_exit": "1",
 
@@ -241,7 +241,7 @@
     {
       "id":"404",
       "title":"Blackpink 404",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Blackpink",
       "image":"https://i.pinimg.com/originals/b0/43/ed/b043ed2ea775cc7f00bb1ebb8c37de32.jpg"
     },
@@ -262,7 +262,7 @@
     {
       "id":"401",
       "title":"Blackpink 401",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Blackpink",
       "image":"https://i.pinimg.com/originals/39/ac/8c/39ac8c6f7696dfc07cc3d932f2ef4b02.jpg"
     },
@@ -311,7 +311,7 @@
     {
       "id":"394",
       "title":"Blackpink 394",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Blackpink",
       "image":"https://i.pinimg.com/originals/0a/37/09/0a3709b21d3689b8f3208d8507d480b2.jpg"
     },
@@ -374,7 +374,7 @@
     {
       "id":"385",
       "title":"Blackpink 385",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Blackpink",
       "image":"https://i.pinimg.com/originals/46/8d/79/468d79c7fcec9bfa78aa3d39f097d859.jpg"
     },
@@ -437,7 +437,7 @@
     {
       "id":"376",
       "title":"Blackpink 376",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Blackpink",
       "image":"https://i.pinimg.com/originals/78/8a/7f/788a7f8c0c395bd7d82d328e5feffd0b.jpg"
     },
@@ -476,7 +476,7 @@
       "name_category":"Blackpink",
       "image":"https://i.pinimg.com/originals/25/0f/75/250f7520d6f46eca31da8986fce627bd.jpg"
     },
-    
+
     {
       "id":370,
       "title":"Blackpink 370",
