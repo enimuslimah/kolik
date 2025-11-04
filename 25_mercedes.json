@@ -19,13 +19,13 @@
       "backup_ads_rewards":"0ec87ea4528fcc8c",
       
       "on_off_native_listview": "1",
-      "interval_for_native": "12",
+      "interval_for_native": "24",
       "on_off_banner_splash": "1",
       "on_off_banner_exit": "1",
 
       "pilih_tema_detail": "1",
     
-      "interval_intertitial": "3",
+      "interval_intertitial": "4",
     
       "initialize_sdk":"209075846",
       "initialize_sdk_backup_ads":"209075846",
@@ -259,6 +259,245 @@
   
   "Data":
   [
+    {
+      "id":"304",
+      "title":"Mercedes Benz 304",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/dc/31/34/dc31347944cccd8ccc154af025fd4f97.jpg"
+    },
+    {
+      "id":"303",
+      "title":"Mercedes Benz 303",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/27/0f/57/270f57a83ab2450de37a9fdf039fb3e7.jpg"
+    },
+    {
+      "id":"302",
+      "title":"Mercedes Benz 302",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/62/b0/8d/62b08d815d4bef6fd469924ee5936a66.jpg"
+    },
+    {
+      "id":"301",
+      "title":"Mercedes Benz 301",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/27/cf/b9/27cfb980cfb2721abfcffe23fe8fafce.jpg"
+    },
+    {
+      "id":"300",
+      "title":"Mercedes Benz 300",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/7a/ad/95/7aad95c089315fb18c2cf7900fa57871.jpg"
+    },
+    {
+      "id":"299",
+      "title":"Mercedes Benz 299",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/db/5d/a3/db5da393037b9cc6d5dc3691acff70bf.jpg"
+    },
+    {
+      "id":"298",
+      "title":"Mercedes Benz 298",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/03/1b/6b/031b6bb4fa7a8f30701fa6662bbb6b7b.png"
+    },
+    {
+      "id":"297",
+      "title":"Mercedes Benz 297",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/5c/66/ed/5c66edf48a82e4fed326406f3fda6729.jpg"
+    },
+    {
+      "id":"296",
+      "title":"Mercedes Benz 296",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/56/37/f7/5637f7a98cfc88a881c57219607d7f1c.jpg"
+    },
+    {
+      "id":"295",
+      "title":"Mercedes Benz 295",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/3d/27/d4/3d27d40bcfa17595ffeca01592bcd964.jpg"
+    },
+    {
+      "id":"294",
+      "title":"Mercedes Benz 294",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/ae/4f/68/ae4f68165df3fda26c9c444b1499ae06.jpg"
+    },
+    {
+      "id":"293",
+      "title":"Mercedes Benz 293",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/5d/52/83/5d52833d39c72f0f006ae607bcab12c2.jpg"
+    },
+    {
+      "id":"292",
+      "title":"Mercedes Benz 292",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/85/6d/d2/856dd2bbe9c3d2b873af2100ac2c7ea0.jpg"
+    },
+    {
+      "id":"291",
+      "title":"Mercedes Benz 291",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/6f/04/41/6f04410518ae47aaa3daa8940578ea7b.jpg"
+    },
+    {
+      "id":"290",
+      "title":"Mercedes Benz 290",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/5f/49/33/5f49335a06631f5ecd0e351717b55036.jpg"
+    },
+    {
+      "id":"289",
+      "title":"Mercedes Benz 289",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/6f/99/52/6f99524911bce014180d839880fffeba.jpg"
+    },
+    {
+      "id":"288",
+      "title":"Mercedes Benz 288",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/dd/da/95/ddda95e88100e7da68527309e24a55b1.jpg"
+    },
+    {
+      "id":"287",
+      "title":"Mercedes Benz 287",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/f4/b4/b0/f4b4b09215a51b89437f949f4e1cd33c.jpg"
+    },
+    {
+      "id":"286",
+      "title":"Mercedes Benz 286",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/30/d2/c1/30d2c106027c0395a953f1099c3d7099.jpg"
+    },
+    {
+      "id":"285",
+      "title":"Mercedes Benz 285",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/8f/f8/d5/8ff8d5d085bdb5ee74f952467869fb3d.jpg"
+    },
+    {
+      "id":"284",
+      "title":"Mercedes Benz 284",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/35/c4/35/35c43570e1d285c2bdbc7dc753bfc01b.jpg"
+    },
+    {
+      "id":"283",
+      "title":"Mercedes Benz 283",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/c3/a7/fd/c3a7fd9b0703113cbb09a9e2dd31343a.jpg"
+    },
+    {
+      "id":"282",
+      "title":"Mercedes Benz 282",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/4e/f5/d6/4ef5d6db34028ed1f0ae72df8928ea5e.jpg"
+    },
+    {
+      "id":"281",
+      "title":"Mercedes Benz 281",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/15/ae/30/15ae3096c474cff23c0fa1fb11e72db7.jpg"
+    },
+    {
+      "id":"280",
+      "title":"Mercedes Benz 280",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/4b/b0/89/4bb089b23fdfbef2161a42a64e47ec1e.jpg"
+    },
+    {
+      "id":"279",
+      "title":"Mercedes Benz 279",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/8f/2b/bd/8f2bbddb0bffea64906ff09ecbf614b4.jpg"
+    },
+    {
+      "id":"278",
+      "title":"Mercedes Benz 278",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/85/21/68/852168b92227fa1251ca119929988178.jpg"
+    },
+    {
+      "id":"277",
+      "title":"Mercedes Benz 277",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/23/37/f5/2337f5111764ecc75179ebf65b382ee1.jpg"
+    },
+    {
+      "id":"276",
+      "title":"Mercedes Benz 276",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/20/fa/f2/20faf2d6a6da44e4832d32123c049f90.jpg"
+    },
+    {
+      "id":"275",
+      "title":"Mercedes Benz 275",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/27/06/f5/2706f5d879757848003a3d5362f5ccbb.jpg"
+    },
+    {
+      "id":"274",
+      "title":"Mercedes Benz 274",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/12/1d/3a/121d3a413444deea6d56c58fc5187592.jpg"
+    },
+    {
+      "id":"273",
+      "title":"Mercedes Benz 273",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/31/b0/45/31b0453525dd91989d1a2e92706bb7d0.jpg"
+    },
+    {
+      "id":"272",
+      "title":"Mercedes Benz 272",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/45/78/86/457886b639fe2cb25440a31310482993.jpg"
+    },
+    {
+      "id":"271",
+      "title":"Mercedes Benz 271",
+      "lock":"false",
+      "name_category":"Mercedes Benz",
+      "image":"https://i.pinimg.com/originals/13/70/07/1370078a5b784e137c548871a1ea33ff.jpg"
+    },
+    
     {
       "id":270,
       "title":"Mercedes Benz 270",
