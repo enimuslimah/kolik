@@ -25,7 +25,7 @@
 
       "pilih_tema_detail": "1",
     
-      "interval_intertitial": "3",
+      "interval_intertitial": "4",
     
       "initialize_sdk":"209297346",
       "initialize_sdk_backup_ads":"209297346",
@@ -239,6 +239,259 @@
   
   "Data":
   [
+    {
+      "id":"346",
+      "title":"Rose Blackpink 346",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/5d/ab/ca/5dabca83c4220c255ec176f3bc494e6a.jpg"
+    },
+    {
+      "id":"345",
+      "title":"Rose Blackpink 345",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/07/b9/c9/07b9c94ee25c4a488b16627e881adf45.jpg"
+    },
+    {
+      "id":"344",
+      "title":"Rose Blackpink 344",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/d4/3b/50/d43b50e636fa6871d760dcfccc820bb6.jpg"
+    },
+    {
+      "id":"343",
+      "title":"Rose Blackpink 343",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/a7/c2/8a/a7c28a9b1dc2181f64bfe62b5baba2e5.jpg"
+    },
+    {
+      "id":"342",
+      "title":"Rose Blackpink 342",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/2d/d5/e9/2dd5e9eb933907141045f778aa01a2cb.jpg"
+    },
+    {
+      "id":"341",
+      "title":"Rose Blackpink 341",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/2b/3f/0f/2b3f0fd09129de6ec1aa54fc6c2b9f70.jpg"
+    },
+    {
+      "id":"340",
+      "title":"Rose Blackpink 340",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/41/d6/1a/41d61a759bca565620593fafe1f41c64.jpg"
+    },
+    {
+      "id":"339",
+      "title":"Rose Blackpink 339",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/c3/c3/6d/c3c36d012f6c600e731e5d401c9736b6.jpg"
+    },
+    {
+      "id":"338",
+      "title":"Rose Blackpink 338",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/01/74/54/017454c6145eeb1635932c28f3dc1fb0.jpg"
+    },
+    {
+      "id":"337",
+      "title":"Rose Blackpink 337",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/be/6c/9b/be6c9b3d19c22d70419b84847c312895.jpg"
+    },
+    {
+      "id":"336",
+      "title":"Rose Blackpink 336",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/ef/d1/b5/efd1b5922506530d733b141ee019fbe0.jpg"
+    },
+    {
+      "id":"335",
+      "title":"Rose Blackpink 335",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/f6/6e/2b/f66e2be09603b9916d3a6491d37212b1.jpg"
+    },
+    {
+      "id":"334",
+      "title":"Rose Blackpink 334",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/c8/f2/6a/c8f26a3888a7344de70e6c9a50deb436.jpg"
+    },
+    {
+      "id":"333",
+      "title":"Rose Blackpink 333",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/d4/07/43/d407435061851f33abb9f6b4da924a2c.jpg"
+    },
+    {
+      "id":"332",
+      "title":"Rose Blackpink 332",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/f8/da/07/f8da0796422785993ea6dc5869bdbeb4.jpg"
+    },
+    {
+      "id":"331",
+      "title":"Rose Blackpink 331",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/4d/59/9b/4d599bb3a82ce5d3c828d9868c009c9b.jpg"
+    },
+    {
+      "id":"330",
+      "title":"Rose Blackpink 330",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/5c/d1/72/5cd172d336e95848f619ee64b561e0a9.jpg"
+    },
+    {
+      "id":"329",
+      "title":"Rose Blackpink 329",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/1f/4f/ef/1f4fef2b159e9068e05c7f90006337a1.jpg"
+    },
+    {
+      "id":"328",
+      "title":"Rose Blackpink 328",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/7c/30/a2/7c30a290946835662e89d02ee7726994.jpg"
+    },
+    {
+      "id":"327",
+      "title":"Rose Blackpink 327",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/eb/12/c7/eb12c734af3883afa2fe47349221504a.jpg"
+    },
+    {
+      "id":"326",
+      "title":"Rose Blackpink 326",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/f8/a9/b2/f8a9b2ded405008cbca3e5a48b34b0ca.jpg"
+    },
+    {
+      "id":"325",
+      "title":"Rose Blackpink 325",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/17/e8/75/17e87564fabf97adac8ff511c8f0e609.jpg"
+    },
+    {
+      "id":"324",
+      "title":"Rose Blackpink 324",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/39/b3/ee/39b3ee218661516755b977ea3004db25.jpg"
+    },
+    {
+      "id":"323",
+      "title":"Rose Blackpink 323",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/9d/8f/1d/9d8f1d7eb00e4914ff8c1a582a8ef55c.jpg"
+    },
+    {
+      "id":"322",
+      "title":"Rose Blackpink 322",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/30/f2/0a/30f20adc2f2d8533fc18504bee0b965b.jpg"
+    },
+    {
+      "id":"321",
+      "title":"Rose Blackpink 321",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/e9/fd/f7/e9fdf7fdce79cb48649193d0b6f6fa76.jpg"
+    },
+    {
+      "id":"320",
+      "title":"Rose Blackpink 320",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/ad/a0/cc/ada0cc4ba938ffc6802d4a97264d608e.jpg"
+    },
+    {
+      "id":"319",
+      "title":"Rose Blackpink 319",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/1e/09/17/1e0917accd9f005a0a4345d38aa95f8b.jpg"
+    },
+    {
+      "id":"318",
+      "title":"Rose Blackpink 318",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/8a/89/12/8a8912466ed542391e20461b29e75b26.jpg"
+    },
+    {
+      "id":"317",
+      "title":"Rose Blackpink 317",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/8b/26/cb/8b26cb8d0d1bd56c82f917093007c8d9.jpg"
+    },
+    {
+      "id":"316",
+      "title":"Rose Blackpink 316",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/13/7e/6b/137e6b2b60cb4c4a0ee9d51c47408d65.jpg"
+    },
+    {
+      "id":"315",
+      "title":"Rose Blackpink 315",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/ae/99/52/ae9952d08a3bf4741a9d76d4baa02e84.jpg"
+    },
+    {
+      "id":"314",
+      "title":"Rose Blackpink 314",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/a4/bd/b9/a4bdb97171c52e3383d09baedf832f7e.jpg"
+    },
+    {
+      "id":"313",
+      "title":"Rose Blackpink 313",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/38/4d/13/384d132cfa5a5793587aeaf4e28e7c8e.jpg"
+    },
+    {
+      "id":"312",
+      "title":"Rose Blackpink 312",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/9c/5f/bb/9c5fbbdf917ef23c74d67e30a4baa4e9.jpg"
+    },
+    {
+      "id":"311",
+      "title":"Rose Blackpink 311",
+      "lock":"false",
+      "name_category":"Rose Blackpink",
+      "image":"https://i.pinimg.com/originals/67/9a/3b/679a3bf57d589dfe0c633acef8276a06.jpg"
+    },
+    
     {
       "id":310,
       "title":"Rose Blackpink 310",
