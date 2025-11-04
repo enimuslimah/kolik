@@ -267,7 +267,7 @@
     {
       "id":"272",
       "title":"Nanatsu 272",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Nanatsu",
       "image":"https://i.pinimg.com/originals/c7/86/c8/c786c8fb348de5e1c2983c3814b22a46.jpg"
     },
@@ -344,7 +344,7 @@
     {
       "id":"261",
       "title":"Nanatsu 261",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Nanatsu",
       "image":"https://i.pinimg.com/originals/61/22/3d/61223daed2cc172101ece1741aae7592.jpg"
     },
@@ -393,7 +393,7 @@
     {
       "id":"254",
       "title":"Nanatsu 254",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Nanatsu",
       "image":"https://i.pinimg.com/originals/7f/2f/d3/7f2fd33a65f1c2e37f2bb14e40bd37f3.jpg"
     },
@@ -456,7 +456,7 @@
     {
       "id":"245",
       "title":"Nanatsu 245",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Nanatsu",
       "image":"https://i.pinimg.com/originals/bc/87/f1/bc87f161764446091cf59b910378b3db.jpg"
     },
@@ -484,7 +484,7 @@
     {
       "id":"241",
       "title":"Nanatsu 241",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Nanatsu",
       "image":"https://i.pinimg.com/originals/a7/11/35/a7113543618639580cbf78473fe52563.jpg"
     },
@@ -570,7 +570,7 @@
       "id": 229,
       "title": "Nanatsu 229",
       "image": "https://i.pinimg.com/originals/31/00/ec/3100ec388376e46c1804d05550dff923.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category":"Nanatsu"
     },
     {
