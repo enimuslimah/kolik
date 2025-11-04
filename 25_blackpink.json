@@ -19,13 +19,13 @@
       "backup_ads_rewards":"8653e95ba1bb570f",
       
       "on_off_native_listview": "1",
-      "interval_for_native": "12",
+      "interval_for_native": "24",
       "on_off_banner_splash": "1",
       "on_off_banner_exit": "1",
 
       "pilih_tema_detail": "1",
     
-      "interval_intertitial": "3",
+      "interval_intertitial": "4",
     
       "initialize_sdk":"209419925",
       "initialize_sdk_backup_ads":"209419925",
@@ -238,6 +238,245 @@
   
   "Data":
   [
+    {
+      "id":"404",
+      "title":"Blackpink 404",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/b0/43/ed/b043ed2ea775cc7f00bb1ebb8c37de32.jpg"
+    },
+    {
+      "id":"403",
+      "title":"Blackpink 403",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/aa/3c/9e/aa3c9e807ed32377310d965baef1b24a.png"
+    },
+    {
+      "id":"402",
+      "title":"Blackpink 402",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/6b/f2/71/6bf2717b2f2d573a99d7435c4c3c7d92.png"
+    },
+    {
+      "id":"401",
+      "title":"Blackpink 401",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/39/ac/8c/39ac8c6f7696dfc07cc3d932f2ef4b02.jpg"
+    },
+    {
+      "id":"400",
+      "title":"Blackpink 400",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/36/58/39/36583960567dd54723e7e6fcdca8a7f2.jpg"
+    },
+    {
+      "id":"399",
+      "title":"Blackpink 399",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/80/d7/af/80d7af555461813a389116212c59b9c5.jpg"
+    },
+    {
+      "id":"398",
+      "title":"Blackpink 398",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/0e/17/d3/0e17d356aac1ae28a046dc23343b2e8e.jpg"
+    },
+    {
+      "id":"397",
+      "title":"Blackpink 397",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/57/6d/b8/576db8f282ba9ecfc6dea15293c22640.jpg"
+    },
+    {
+      "id":"396",
+      "title":"Blackpink 396",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/ef/3d/ec/ef3decf4bc850953fb3fbae0784817d8.jpg"
+    },
+    {
+      "id":"395",
+      "title":"Blackpink 395",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/07/26/1f/07261f626678f64daf52c3540063ade7.jpg"
+    },
+    {
+      "id":"394",
+      "title":"Blackpink 394",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/0a/37/09/0a3709b21d3689b8f3208d8507d480b2.jpg"
+    },
+    {
+      "id":"393",
+      "title":"Blackpink 393",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/77/d6/69/77d669f12292a5bd651bc86d4f6c1d8b.jpg"
+    },
+    {
+      "id":"392",
+      "title":"Blackpink 392",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/33/7a/8d/337a8d1b660b5f6d7c4f058e5083700b.jpg"
+    },
+    {
+      "id":"391",
+      "title":"Blackpink 391",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/37/2e/ef/372eef8d8757976ac54edac7b0b00e87.jpg"
+    },
+    {
+      "id":"390",
+      "title":"Blackpink 390",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/f6/52/65/f65265314f1c572aa5810bff8ff29a42.jpg"
+    },
+    {
+      "id":"389",
+      "title":"Blackpink 389",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/94/2f/6c/942f6cc1b24317bbf8e40057f1449113.jpg"
+    },
+    {
+      "id":"388",
+      "title":"Blackpink 388",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/31/cb/c3/31cbc3ae3b9b50271c2bb571bb1b54fd.jpg"
+    },
+    {
+      "id":"387",
+      "title":"Blackpink 387",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/a5/fe/ff/a5feff5f2e141144e8c698703e8f0b28.jpg"
+    },
+    {
+      "id":"386",
+      "title":"Blackpink 386",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/76/f3/83/76f3830e317bc5a7b60b418dbe5663db.jpg"
+    },
+    {
+      "id":"385",
+      "title":"Blackpink 385",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/46/8d/79/468d79c7fcec9bfa78aa3d39f097d859.jpg"
+    },
+    {
+      "id":"384",
+      "title":"Blackpink 384",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/30/06/b7/3006b77c697b329ffa03433d21c2e4b1.jpg"
+    },
+    {
+      "id":"383",
+      "title":"Blackpink 383",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/98/29/7d/98297d9b98560dee7d3e290dd79f8575.png"
+    },
+    {
+      "id":"382",
+      "title":"Blackpink 382",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/7d/ba/56/7dba563f36899ca3df981bc700573a4e.jpg"
+    },
+    {
+      "id":"381",
+      "title":"Blackpink 381",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/4e/fb/50/4efb500aff274323d2c260b986f99dd0.jpg"
+    },
+    {
+      "id":"380",
+      "title":"Blackpink 380",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/f4/cd/f5/f4cdf53a3a540f00858a63e3a9edba63.jpg"
+    },
+    {
+      "id":"379",
+      "title":"Blackpink 379",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/d3/ae/08/d3ae08b5e0883d0c2775b25fc2713c93.jpg"
+    },
+    {
+      "id":"378",
+      "title":"Blackpink 378",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/99/b8/93/99b8936d2293f1f2e3fcb078f3a55ed7.png"
+    },
+    {
+      "id":"377",
+      "title":"Blackpink 377",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/03/99/6d/03996db3b885d281a98ad10ebdfee636.jpg"
+    },
+    {
+      "id":"376",
+      "title":"Blackpink 376",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/78/8a/7f/788a7f8c0c395bd7d82d328e5feffd0b.jpg"
+    },
+    {
+      "id":"375",
+      "title":"Blackpink 375",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/09/16/59/091659772f1559c99222d4d68f76f241.jpg"
+    },
+    {
+      "id":"374",
+      "title":"Blackpink 374",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/8f/2e/8f/8f2e8fdb064105b451ef1edefc66e7f2.jpg"
+    },
+    {
+      "id":"373",
+      "title":"Blackpink 373",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/36/7f/73/367f73de2216bba9c48096bc76d40c9b.jpg"
+    },
+    {
+      "id":"372",
+      "title":"Blackpink 372",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/ee/64/4d/ee644d2725bf9ab15d6eb0e2c8c67087.jpg"
+    },
+    {
+      "id":"371",
+      "title":"Blackpink 371",
+      "lock":"false",
+      "name_category":"Blackpink",
+      "image":"https://i.pinimg.com/originals/25/0f/75/250f7520d6f46eca31da8986fce627bd.jpg"
+    },
+    
     {
       "id":370,
       "title":"Blackpink 370",
