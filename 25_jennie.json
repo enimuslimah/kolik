@@ -2,21 +2,21 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
 
       "open_ads_admob":"ca-app-pub-3803044318753265/1187440738",
       "open_ads_alien":"null",
-      "open_ads_max":"null",
+      "open_ads_max":"289a50500464f232",
 	  
       "main_ads_banner": "ca-app-pub-3803044318753265/2497303694",
       "main_ads_intertitial":"ca-app-pub-3803044318753265/8923751878",
       "main_ads_natives":"ca-app-pub-3803044318753265/6667648846x",
       "main_ads_rewards":"ca-app-pub-3803044318753265/5998549718",
       
-      "backup_ads_banner":"9a106df052c6cabe",
-      "backup_ads_intertitial":"747eb8c89320790d",
-      "backup_ads_natives":"null",
-      "backup_ads_rewards":"a6690f6bd212bd12",
+      "backup_ads_banner":"da8aaa47da5e459b",
+      "backup_ads_intertitial":"b0430cd4bb981083",
+      "backup_ads_natives":"1605f4992a38ddda",
+      "backup_ads_rewards":"da46b5a2e3fab7bb",
       
       "on_off_native_listview": "1",
       "interval_for_native": "12",
@@ -239,6 +239,245 @@
   
   "Data":
   [
+    {
+      "id":"204",
+      "title":"Jennie Blackpink 204",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/e1/67/44/e16744e9705fb74df335c11d57bbe03d.jpg"
+    },
+    {
+      "id":"203",
+      "title":"Jennie Blackpink 203",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/19/6e/00/196e001eb769fd29006ea11f107b235c.jpg"
+    },
+    {
+      "id":"202",
+      "title":"Jennie Blackpink 202",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/ca/13/e5/ca13e50fa0272ada1d0742a52ea42211.jpg"
+    },
+    {
+      "id":"201",
+      "title":"Jennie Blackpink 201",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/cc/fc/c2/ccfcc241436c234d37f56dc581e062d1.jpg"
+    },
+    {
+      "id":"200",
+      "title":"Jennie Blackpink 200",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/2f/01/95/2f0195d245440aabd03c0cb426318534.jpg"
+    },
+    {
+      "id":"199",
+      "title":"Jennie Blackpink 199",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/42/70/de/4270de7969e03090f2167da51f4d79b3.jpg"
+    },
+    {
+      "id":"198",
+      "title":"Jennie Blackpink 198",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/97/c9/9a/97c99aa4466d42acddb776fa6dd378ef.jpg"
+    },
+    {
+      "id":"197",
+      "title":"Jennie Blackpink 197",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/e6/cb/97/e6cb9754340962d3110b3a167a9bd011.jpg"
+    },
+    {
+      "id":"196",
+      "title":"Jennie Blackpink 196",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/b2/48/6d/b2486d96526e80141feb2860530237ac.jpg"
+    },
+    {
+      "id":"195",
+      "title":"Jennie Blackpink 195",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/a4/7a/f9/a47af97e3bd0666cf769fade0b0b215d.jpg"
+    },
+    {
+      "id":"194",
+      "title":"Jennie Blackpink 194",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/b4/ff/af/b4ffaf79ddf64f5a76aa3a903e833350.jpg"
+    },
+    {
+      "id":"193",
+      "title":"Jennie Blackpink 193",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/a2/6c/8d/a26c8d64cf936c4196da8a7ca4d794a5.jpg"
+    },
+    {
+      "id":"192",
+      "title":"Jennie Blackpink 192",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/c4/b9/cc/c4b9cc6bf9291a9234baf78307199be8.jpg"
+    },
+    {
+      "id":"191",
+      "title":"Jennie Blackpink 191",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/97/8a/47/978a47b47d44b66ca62c4f01e41d5161.jpg"
+    },
+    {
+      "id":"190",
+      "title":"Jennie Blackpink 190",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/a3/4d/72/a34d729c9df6e47c8473d9ad0929c73f.jpg"
+    },
+    {
+      "id":"189",
+      "title":"Jennie Blackpink 189",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/a9/4c/9c/a94c9cf71b2db9aab5c82f2288dc13fe.jpg"
+    },
+    {
+      "id":"188",
+      "title":"Jennie Blackpink 188",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/8c/cf/fd/8ccffdaec09595439f4644b68207fb8b.jpg"
+    },
+    {
+      "id":"187",
+      "title":"Jennie Blackpink 187",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/59/19/ac/5919ac91a8dd87eaf5823766bc384870.jpg"
+    },
+    {
+      "id":"186",
+      "title":"Jennie Blackpink 186",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/7f/2d/69/7f2d69e676538a120c859c61b337f6e1.jpg"
+    },
+    {
+      "id":"185",
+      "title":"Jennie Blackpink 185",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/6b/18/df/6b18dfd904e64cd2b1ef65c4fd529681.jpg"
+    },
+    {
+      "id":"184",
+      "title":"Jennie Blackpink 184",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/1e/17/96/1e1796b0ec69b679faf30d3bc6072b37.jpg"
+    },
+    {
+      "id":"183",
+      "title":"Jennie Blackpink 183",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/af/54/d9/af54d90fda906aed6e18a902297f2d46.jpg"
+    },
+    {
+      "id":"182",
+      "title":"Jennie Blackpink 182",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/22/cd/0d/22cd0d3c8589d75e254f242ab490446b.jpg"
+    },
+    {
+      "id":"181",
+      "title":"Jennie Blackpink 181",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/0f/29/9f/0f299f3eb416c9272715fb1491d1bf58.jpg"
+    },
+    {
+      "id":"180",
+      "title":"Jennie Blackpink 180",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/02/20/57/0220572963f7abcb7ab3c64b406fde03.jpg"
+    },
+    {
+      "id":"179",
+      "title":"Jennie Blackpink 179",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/04/e0/96/04e096b2389e807f6f24ce27f34519b5.jpg"
+    },
+    {
+      "id":"178",
+      "title":"Jennie Blackpink 178",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/08/7b/65/087b655f04373a5acb42eb8ce3bb9b76.jpg"
+    },
+    {
+      "id":"177",
+      "title":"Jennie Blackpink 177",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/f1/69/c7/f169c7475fe0ffaad2b9a267d48c8439.jpg"
+    },
+    {
+      "id":"176",
+      "title":"Jennie Blackpink 176",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/97/a0/21/97a02148d200fa5547390901a31d58c8.jpg"
+    },
+    {
+      "id":"175",
+      "title":"Jennie Blackpink 175",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/cb/be/ec/cbbeecf67ad8a6543a9ce11c06ce2530.jpg"
+    },
+    {
+      "id":"174",
+      "title":"Jennie Blackpink 174",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/04/1c/7a/041c7a84b0025f670732c2853bae74b8.jpg"
+    },
+    {
+      "id":"173",
+      "title":"Jennie Blackpink 173",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/16/5a/e7/165ae7a9e9d4383fb607db2f077b0d07.jpg"
+    },
+    {
+      "id":"172",
+      "title":"Jennie Blackpink 172",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/4e/59/53/4e5953dd69bd8d41ee56c09a055f0a69.jpg"
+    },
+    {
+      "id":"171",
+      "title":"Jennie Blackpink 171",
+      "lock":"false",
+      "name_category":"Jennie Blackpink",
+      "image":"https://i.pinimg.com/originals/64/df/9e/64df9e89296780dbc02b2b5816db3e7d.jpg"
+    },
+
     {
       "id":"170",
       "title":"Jennie Blackpink 170",
