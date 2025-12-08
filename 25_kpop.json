@@ -2,21 +2,21 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
 
       "open_ads_admob":"ca-app-pub-3803044318753265/9421153973",
       "open_ads_alien":"null",
-      "open_ads_max":"null",
+      "open_ads_max":"c905c7467e6663f6",
     
       "main_ads_banner": "ca-app-pub-3803044318753265/2494074895",
       "main_ads_intertitial":"ca-app-pub-3803044318753265/6029354597",
       "main_ads_natives":"ca-app-pub-3803044318753265/6065670152x",
       "main_ads_rewards":"ca-app-pub-3803044318753265/1907982225",
       
-      "backup_ads_banner":"9a106df052c6cabe",
-      "backup_ads_intertitial":"747eb8c89320790d",
-      "backup_ads_natives":"null",
-      "backup_ads_rewards":"a6690f6bd212bd12",
+      "backup_ads_banner":"1c34bccf24c88803",
+      "backup_ads_intertitial":"17497397a97aea9b",
+      "backup_ads_natives":"3c7b59d8798a933a",
+      "backup_ads_rewards":"d6183ab2287e38c9",
       
       "on_off_native_listview": "1",
       "interval_for_native": "12",
@@ -229,6 +229,188 @@
   
   "Data":
   [
+    {
+      "id":"200",
+      "title":"KPOP Demon 200",
+      "lock":"true",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/8c/10/3f/8c103f18ed6544b5fff76be6f488ce46.jpg"
+    },
+    {
+      "id":"199",
+      "title":"KPOP Demon 199",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/e9/cc/b7/e9ccb706560349dd687fadb2ce54f58b.jpg"
+    },
+    {
+      "id":"198",
+      "title":"KPOP Demon 198",
+      "lock":"true",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/80/8b/81/808b818ddcca4cbb3a1fdd8e2a97850c.jpg"
+    },
+    {
+      "id":"197",
+      "title":"KPOP Demon 197",
+      "lock":"true",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/ba/ba/f5/babaf5b3868dc6e89f5dad55e92b3b34.jpg"
+    },
+    {
+      "id":"196",
+      "title":"KPOP Demon 196",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/25/04/e8/2504e89c60c0ee102d13880376dcbf42.jpg"
+    },
+    {
+      "id":"195",
+      "title":"KPOP Demon 195",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/9c/60/fb/9c60fba2f9ae15dd4b46cb3586bdd103.jpg"
+    },
+    {
+      "id":"194",
+      "title":"KPOP Demon 194",
+      "lock":"true",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/ef/99/2b/ef992b946ce9fc54ad7eb80f7139e692.jpg"
+    },
+    {
+      "id":"193",
+      "title":"KPOP Demon 193",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/7a/ea/a3/7aeaa3521e0c761fb09b71a80092ab4b.jpg"
+    },
+    {
+      "id":"192",
+      "title":"KPOP Demon 192",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/32/14/2c/32142cef34505f064334e35bfe6edab8.jpg"
+    },
+    {
+      "id":"191",
+      "title":"KPOP Demon 191",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/2e/86/6e/2e866e7bba6f544310b0b310ee443240.jpg"
+    },
+    {
+      "id":"190",
+      "title":"KPOP Demon 190",
+      "lock":"true",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/93/5c/85/935c85c7f03113b9b388909dd593b204.jpg"
+    },
+    {
+      "id":"189",
+      "title":"KPOP Demon 189",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/2b/cb/1a/2bcb1a5609090af105ef958542978575.jpg"
+    },
+    {
+      "id":"188",
+      "title":"KPOP Demon 188",
+      "lock":"true",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/30/5a/fa/305afa6efbecb3025f8a5bed56bc70eb.jpg"
+    },
+    {
+      "id":"187",
+      "title":"KPOP Demon 187",
+      "lock":"true",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/736x/a3/f7/c4/a3f7c4167b04af923c5af88ed6f30d84.jpg"
+    },
+    {
+      "id":"186",
+      "title":"KPOP Demon 186",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/736x/75/d4/60/75d46031a751ce3ec681824473694e70.jpg"
+    },
+    {
+      "id":"185",
+      "title":"KPOP Demon 185",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/c2/ed/6b/c2ed6b4a3678bea91e003e54b557899a.jpg"
+    },
+    {
+      "id":"184",
+      "title":"KPOP Demon 184",
+      "lock":"true",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/84/85/89/8485897e769550e607c5cc2b8f59bb8d.jpg"
+    },
+    {
+      "id":"183",
+      "title":"KPOP Demon 183",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/db/f7/27/dbf7276b71654ebd4c03e6c098f73ecc.jpg"
+    },
+    {
+      "id":"182",
+      "title":"KPOP Demon 182",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/47/e8/fb/47e8fb98cfd3341c80abe18535d6898e.jpg"
+    },
+    {
+      "id":"181",
+      "title":"KPOP Demon 181",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/53/33/e1/5333e1ac786ab1209dae9e710960b5df.jpg"
+    },
+    {
+      "id":"180",
+      "title":"KPOP Demon 180",
+      "lock":"true",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/07/4e/0d/074e0d356c0a38ee675bd6bd04ae24b4.jpg"
+    },
+    {
+      "id":"179",
+      "title":"KPOP Demon 179",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/1e/ba/60/1eba60dea1af6075083fe9ac114b64cc.jpg"
+    },
+    {
+      "id":"178",
+      "title":"KPOP Demon 178",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/736x/24/c1/91/24c1916c2a1b2d858d19bba9dc8371fe.jpg"
+    },
+    {
+      "id":"177",
+      "title":"KPOP Demon 177",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/19/7c/f2/197cf2e728841ded77b7405968c3ff56.jpg"
+    },
+    {
+      "id":"176",
+      "title":"KPOP Demon 176",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/f5/14/85/f514857a5711ba5950bc012b8332473f.jpg"
+    },
+    {
+      "id":"175",
+      "title":"KPOP Demon 175",
+      "lock":"false",
+      "name_category":"KPOP Demon",
+      "image":"https://i.pinimg.com/originals/4c/33/c4/4c33c45bf258a55e8aeb9b60b2415d3a.jpg"
+    },
     {
       "id":"174",
       "title":"KPOP Demon 174",
