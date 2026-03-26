@@ -1,22 +1,22 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"ADMOB",
 
-      "open_ads_admob":"ca-app-pub-3803044318753265/9421153973",
+      "open_ads_admob":"ca-app-pub-3803044318753265/9421153973x",
       "open_ads_alien":"null",
       "open_ads_max":"c905c7467e6663f6",
     
-      "main_ads_banner": "ca-app-pub-3803044318753265/2494074895",
-      "main_ads_intertitial":"ca-app-pub-3803044318753265/6029354597",
-      "main_ads_natives":"ca-app-pub-3803044318753265/6065670152x",
-      "main_ads_rewards":"ca-app-pub-3803044318753265/1907982225",
+      "main_ads_banner": "1c34bccf24c88803",
+      "main_ads_intertitial":"17497397a97aea9b",
+      "main_ads_natives":"3c7b59d8798a933a",
+      "main_ads_rewards":"d6183ab2287e38c9",
       
-      "backup_ads_banner":"1c34bccf24c88803",
-      "backup_ads_intertitial":"17497397a97aea9b",
-      "backup_ads_natives":"3c7b59d8798a933a",
-      "backup_ads_rewards":"d6183ab2287e38c9",
+      "backup_ads_banner":"ca-app-pub-3803044318753265/2494074895x",
+      "backup_ads_intertitial":"ca-app-pub-3803044318753265/6029354597x",
+      "backup_ads_natives":"ca-app-pub-3803044318753265/6065670152x",
+      "backup_ads_rewards":"ca-app-pub-3803044318753265/1907982225x",
       
       "on_off_native_listview": "1",
       "interval_for_native": "12",
@@ -25,7 +25,7 @@
 
       "pilih_tema_detail": "1",
     
-      "interval_intertitial": "4",
+      "interval_intertitial": "3",
     
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"null",
